@@ -1,6 +1,6 @@
 # Patch-Creator
 
-A little tool to create patch titles in Jamfs Title Editor
+A little tool to create patch titles in Jamf's Title Editor
 NOTE: This will not work with Applications located in /System/Applications or any other location besides /Applications
 
 This tool makes use of this great script from here:

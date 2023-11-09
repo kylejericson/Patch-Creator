@@ -5,6 +5,8 @@ NOTE: This will not work with Applications located in /System/Applications or an
 
 This tool makes use of this great script from here:
 https://github.com/brysontyrrell/Patch-Starter-Script
+Since the old version of this script was python3 I converted to python3
+https://github.com/kylejericson/Patch-Starter-Script
 
 
 To use this tool make sure to enable full disk access first in System Preferences
